@@ -1,2 +1,2 @@
 # Git-DEMO
-Understanding about the git and github.
+hello everyone, Understanding about the git and github.
